@@ -34,6 +34,7 @@ function log(){
 }
 
 function pi(){
+
     screen.value=3.14159265359
 }
 
@@ -58,5 +59,4 @@ function fact(){
 function backspc()
 {
     screen.value=screen.value.substr(0,screen.value.length-1);
-
 }
